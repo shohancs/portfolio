@@ -34,7 +34,12 @@ p{
     padding: 40px;
     border-radius: 10px;
 }
-
+#full-babu{
+    border-left: 7px solid #F8755E;
+}
+#baby-babu{
+    border-left: 7px solid blue;
+}
 .half img{
     width: 93%;
 }
@@ -55,4 +60,7 @@ p{
     background-image: url(../images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+footer p{
+    text-align: center;
 }
