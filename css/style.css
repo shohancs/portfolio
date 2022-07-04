@@ -7,3 +7,9 @@ h1{
 .heading{
     color: #FFA501;
 }
+p{
+    text-align: justify;
+}
+section{
+    display: flex;
+}
