@@ -13,3 +13,19 @@ p{
 section{
     display: flex;
 }
+.half{
+    width: 50%;
+    padding-left: 5%;
+}
+.half img{
+    width: 93%;
+}
+.link_btn {
+    background-image: linear-gradient(salmon, tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
